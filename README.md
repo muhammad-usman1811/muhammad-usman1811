@@ -17,7 +17,7 @@
 
 #### Development Stuffs
 ⚡Github Stats
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman1811&show_icons=true&locale=en" alt="muhammad-usman1811" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-usman1811&show_icons=true&locale=en&layout=compact" alt="muhammad-usman1811" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman1811&show_icons=true&locale=en" alt="muhammad-usman1811" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-usman1811&show_icons=true&locale=en&layout=compact" alt="muhammad-usman1811"/></p>
 
 #### Connect With Me
 <p align="left">
