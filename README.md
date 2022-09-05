@@ -1,6 +1,5 @@
 ## Hi :wave:, I'm a software developer
 
-<p align="left"> <a href="https://twitter.com/musman1811" target="blank"><img src="https://img.shields.io/twitter/follow/musman1811?logo=twitter&style=for-the-badge" alt="musman1811" /></a> </p>
 
 #### Now
 - :fire: Interested in MERN Stack
