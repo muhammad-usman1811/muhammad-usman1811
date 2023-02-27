@@ -5,7 +5,7 @@
 - :fire: Interested in MERN Stack
 - :calendar: Looking for contributing to mern based open source projects
 #### Bio
-- I'm currently looking for a job
+- Woring as a Software Developer
 - I use daily ```.js``` ```.jsx```
 - I'm mostly an active learner
 - Learning all about **JavaScript**, **React**, **MongoDB** and **NodeJS**
